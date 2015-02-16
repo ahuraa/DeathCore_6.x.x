@@ -40,8 +40,4 @@ notifications:
     channels:
       - "irc.rizon.net#NoffearrDeathProjecT"
     on_success: always
-<<<<<<< HEAD
     on_failure: always
-=======
-    on_failure: always
->>>>>>> origin/master
