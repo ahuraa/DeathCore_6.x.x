@@ -3,7 +3,9 @@
 
 # DeathCore 6.x.x - New Source - Scripts
 
+
 `DeathCore_6.x.x`:[![Build Status](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_6.x.x.svg)](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_6.x.x)
+
 
 ##Informações Gerais do Projeto
 
