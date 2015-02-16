@@ -1,5 +1,4 @@
 ﻿/*
- * Copyright (C) 2012-2014 Arctium Emulation <http://arctium.org>
  * Copyright (C) 2013-2015 DeathCore <http://www.noffearrdeathproject.net/>
  *
  * This program is free software: you can redistribute it and/or modify
@@ -13,8 +12,9 @@
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * asize_t with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
+
 
 #include "Patcher.hpp"
 #include "Helper.hpp"
